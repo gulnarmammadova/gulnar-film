@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.47aaaca1.css",
-    "main.js": "/static/js/main.648455be.js",
-    "index.html": "/index.html",
-    "main.47aaaca1.css.map": "/static/css/main.47aaaca1.css.map",
-    "main.648455be.js.map": "/static/js/main.648455be.js.map"
+    "main.css": "/gulnar-film/static/css/main.47aaaca1.css",
+    "main.js": "/gulnar-film/static/js/main.0bcd2ccf.js",
+    "index.html": "/gulnar-film/index.html",
+    "main.47aaaca1.css.map": "/gulnar-film/static/css/main.47aaaca1.css.map",
+    "main.0bcd2ccf.js.map": "/gulnar-film/static/js/main.0bcd2ccf.js.map"
   },
   "entrypoints": [
     "static/css/main.47aaaca1.css",
-    "static/js/main.648455be.js"
+    "static/js/main.0bcd2ccf.js"
   ]
 }
