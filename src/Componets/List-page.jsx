@@ -1,5 +1,4 @@
 import { Link, useParams } from "react-router";
-
 export default function ListPage() {
     const { id } = useParams()
     const lists = JSON.parse(localStorage.getItem('lists'))
